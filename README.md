@@ -7,4 +7,4 @@
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love playing with gadgets.
-- 😏 Check More About Me on [MyPortfolio](https://vittalab.github.io/MyAwesomePortfolio/)
+- 😏 Check More About Me on [MyPortfolio](https://github.com/VittalAB)
