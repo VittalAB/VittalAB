@@ -7,5 +7,3 @@
 - ⚡ Fun fact: I love playing with gadgets.
 - 😏 Check More About Me on [MyPortfolio](https://vittalab.github.io/Portfolio/)
 
-
-
