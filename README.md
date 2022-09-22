@@ -15,6 +15,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=F05031)
 
 </br>
 
@@ -29,8 +30,10 @@
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-
-
+![](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=Pytorch&color=181717)
+![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=tensorflow&color=181717)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&color=181717)
+</br>
 
 
 
