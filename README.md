@@ -7,3 +7,7 @@
 - ⚡ Fun fact: I love playing with gadgets.
 - 😏 Check More About Me on [MyPortfolio](https://vittalab.github.io/Portfolio/)
 
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=VittalAB)](https://github.com/VittalAB)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VittalAB&layout=compact)](https://github.com/VittalAB)
