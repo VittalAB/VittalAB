@@ -40,7 +40,7 @@
 
 <!-- [![Vittal’s github stats](https://github-readme-stats.vercel.app/api?username=VittalAB)](https://github.com/VittalAB) -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=VittalAB&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=VittalAB&show_icons=true&count_private=true)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VittalAB&layout=compact)](https://github.com/VittalAB) -->
 
