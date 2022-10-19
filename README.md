@@ -46,4 +46,4 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=VittalAB&hide=php&theme=highcontras)
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=VittalAB&repo=repo-name&show_owner=true)](https://github.com/VittalAB/repo-name)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=VittalAB&repo=repo-name&show_owner=true)](https://github.com/VittalAB/Social-Network-Analysis)
