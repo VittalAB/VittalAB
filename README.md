@@ -1,4 +1,4 @@
-## Hi there this VITTAL👋
+## Hi there this is VITTAL👋
 
 - 🔭 I’m currently studying Computer Science & Engineering at KLE Tech University, Hubli, India
 - 🌱 I’m currently learning Web Development, AIML & Devops, UX Design
