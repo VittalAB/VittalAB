@@ -17,6 +17,7 @@
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=F05031)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=F05035)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=F05035)
 </br>
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
