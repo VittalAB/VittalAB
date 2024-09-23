@@ -50,3 +50,10 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=VittalAB&hide=php&theme=highcontras)
 
 [![Vittal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vittalab)](https://github.com/vittalab/github-readme-stats)
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vittalab.github.io/Portfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/vittal-badami-450812231)
+
