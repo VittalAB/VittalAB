@@ -1,8 +1,8 @@
 ## Hi there this is VITTAL👋
 
 - 🔭 I’m a Computer Science & Engineering graduate from KLE Tech University, Hubli, India
-- 🌱 I’m currently learning Web Development, AIML & Devops, UX Design
-- 🤔 I’m looking for help with AI & Machine Learning
+- 🌱 I’m exploring Web Development, AIML & Devops, UX Design
+- 🤔 I’m looking for help with UI/UX
 - 💬 Ask me about Coding, Algorithms & Data Structures, CPP, PYTHON 
 - ⚡ Fun fact: I love playing with gadgets.
 - 😏 Check More About Me on [MyPortfolio](https://vittalab.github.io/Portfolio/)
