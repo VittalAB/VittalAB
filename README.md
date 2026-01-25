@@ -47,9 +47,9 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VittalAB&layout=compact)](https://github.com/VittalAB) -->
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=VittalAB&hide=php&theme=highcontras)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VittalAB&layout=compact&hide=php&theme=highcontrast)
 
-[![Vittal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vittalab)](https://github.com/vittalab/github-readme-stats)
+![Vittal's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vittalab&layout=compact)
 
 
 
